@@ -1,8 +1,5 @@
 
 ## Localized Semantic Editing of StyleGAN outputs
-
-![ ](https://github.com/IVRL/GANLocalEditing/blob/master/teaser.gif)
-
 Paper: https://arxiv.org/abs/2004.14367<br>
 Video: https://youtu.be/9mXVPaT9Ryg<br>
 
